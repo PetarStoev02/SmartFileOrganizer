@@ -89,9 +89,8 @@ You can modify the following parameters in the `sorter.py` script:
 When running the program, you'll see logs in the terminal like this:
 
 ```
-Сортиране на документ: Фактура_2024-12-01.pdf | Класифициран като: Фактура | Остатъчно време: 30s
-Документът Фактура_2024-12-01.pdf беше класифициран като: Фактура
-Файлът ./incoming_documents/Фактура_2024-12-01.pdf беше преместен в ./sorted_documents/Фактури/2024/Месец_12/Седмица_1/
+Document Отчет_2024-11-07.pdf classified as: Report
+Sorting document: Отчет_2024-11-07.pdf | Classified as: Report | Remaining time: 30sFile ./incoming_documents\Отчет_2024-11-07.pdf moved to ./sorted_documents\Report\2024\Month_12\Week_2\Отчет_2024-11-07.pdf
 ```
 
 ## Notes
