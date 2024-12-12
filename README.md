@@ -112,5 +112,3 @@ This project is licensed under the MIT License.
 6. **Example Output** – Sample logs to show how the program behaves when sorting files.
 7. **Notes** – Additional information about PDF file support and handling duplicates.
 8. **License** – The project's license information.
-
-You can copy this markdown into your `README.md` file, and it will provide clear instructions for users to run and use your project effectively. Let me know if you need further changes!
